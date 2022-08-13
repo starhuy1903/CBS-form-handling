@@ -1,0 +1,26 @@
+
+.form{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.formGroup {
+    width: 50%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.warningSpan {
+    color: red;
+}
+
+.select {
+    display: block;
+}
+
+.btn {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
